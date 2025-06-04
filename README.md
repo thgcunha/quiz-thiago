@@ -1,6 +1,6 @@
 # 🎮 Quiz de Jogos em Java
 
-Este é um sistema de **quiz interativo em Java** com 15 perguntas de múltipla escolha sobre o universo dos **games**. Projeto desenvolvido como trabalho para a disciplina de Programação I.
+Este é um sistema de **quiz interativo em Java** com 15 perguntas de múltipla escolha sobre o universo dos **games**. 
 
 ---
 
